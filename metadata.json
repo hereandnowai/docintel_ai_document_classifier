@@ -1,0 +1,8 @@
+{
+  "name": "docintel_ai_document_classifier",
+  "description": "An AI-powered document classification and routing assistant. It analyzes document content, classifies it, and suggests routing destinations and actions. Features include text input, speech-to-text input, and an AI chat assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
